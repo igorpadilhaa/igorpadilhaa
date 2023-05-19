@@ -1,16 +1,19 @@
-### Hi there 👋
+## Hi, how are doing?
 
-<!--
-**igorpadilhaa/igorpadilhaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm brazilian programming student finding space in the WEB/front-end development. Currently I'm interested in the Node.js ecossystem and serverless services.
 
-Here are some ideas to get you started:
+## My Toolset
+Some languages, frameworks and softwares I use to write my projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Frontend
+![Frontend technologies](https://skillicons.dev/icons?i=html,css,js,react)
+
+### Backend
+![Backend technologies](https://skillicons.dev/icons?i=java,spring,nodejs,firebase,php,mysql,postgres,sqlite)
+
+### Other tools
+![Tools](https://skillicons.dev/icons?i=idea,vscode,neovim,gradle,git,vite,jest)
+
+## My statistics
+<img src="https://github-readme-stats.vercel.app/api/?username=igorpadilhaa&count_private=true&theme=transparent&show_icons=true&custom_title=Github%20activity">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=igorpadilhaa&langs_count=5&theme=transparent&layout=compact&card_width=500">
